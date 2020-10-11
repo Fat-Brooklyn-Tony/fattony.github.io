@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Becoming Fat Tony</title>
+		<link>https://fatbrooklyntony.github.io/</link>
+		<description>Recent content on fatbrooklyntony.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sun, 11 Oct 2020 19:15:30 +0200</lastBuildDate>
+		
+		<atom:link href="https://fatbrooklyntony.github.io/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Week 02: Basics of Raising Capital</title>
+			<link>https://fatbrooklyntony.github.io/posts/2020-10-11-week02/</link>
+			<pubDate>Sun, 11 Oct 2020 19:15:30 +0200</pubDate>
+			
+			<guid>https://fatbrooklyntony.github.io/posts/2020-10-11-week02/</guid>
+			<description>
+				
+				Financial Intermediaries  There are transaction charges (~Rs. 16) on DEMAT account in addition to the brokerage.  Takeaw...
+				
+			</description>
+		</item>
+		<item>
+			<title>Week 01: Why should one invest?</title>
+			<link>https://fatbrooklyntony.github.io/posts/2020-09-30-week01/</link>
+			<pubDate>Thu, 01 Oct 2020 19:45:55 +0200</pubDate>
+			
+			<guid>https://fatbrooklyntony.github.io/posts/2020-09-30-week01/</guid>
+			<description>
+				
+				To kick things off, we start at the most basic, fundamental and significant questions of them all.
+1. Why should I inves...
+				
+			</description>
+		</item>
+		<item>
+			<title>Let&#39;s Begin</title>
+			<link>https://fatbrooklyntony.github.io/posts/2020-09-27-init/</link>
+			<pubDate>Sun, 27 Sep 2020 21:47:09 +0200</pubDate>
+			
+			<guid>https://fatbrooklyntony.github.io/posts/2020-09-27-init/</guid>
+			<description>
+				
+				We are just a bunch of friends trying to learn personal finance management. To be honest, we are as clueless about this ...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>
